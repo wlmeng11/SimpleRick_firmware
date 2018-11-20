@@ -1,6 +1,8 @@
 # SimpleRick firmware
 [Hardware](https://github.com/wlmeng11/SimpleRick) | **Firmware** | [Software](https://github.com/wlmeng11/rtl-ultrasound)
 
+[![HitCount](http://hits.dwyl.io/wlmeng11/SimpleRick_firmware.svg)](http://hits.dwyl.io/wlmeng11/SimpleRick_firmware)
+
 TODO: travis badge http://docs.platformio.org/en/latest/ci/travis.html
 
 This firmware is written for the Teensy 3.2 microcontroller, which should be connected to the SimpleRick PCB.
