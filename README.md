@@ -1,5 +1,10 @@
 # SimpleRick firmware
-[Hardware](https://github.com/wlmeng11/SimpleRick) | **Firmware** | [Software](https://github.com/wlmeng11/rtl-ultrasound)
+
+[Software](https://github.com/wlmeng11/rtl-ultrasound)
+&larr;
+**Firmware**
+&larr;
+[Hardware](https://github.com/wlmeng11/SimpleRick)
 
 [![HitCount](http://hits.dwyl.io/wlmeng11/SimpleRick_firmware.svg)](http://hits.dwyl.io/wlmeng11/SimpleRick_firmware)
 
